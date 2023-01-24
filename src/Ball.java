@@ -1,7 +1,8 @@
 import java.awt.*;
 import javax.swing.*;
 public class Ball extends JPanel{
-    private int x;
+  //Variables  
+  private int x;
     private int y;
     private int size;
     private int xSpeed;
